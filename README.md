@@ -7,4 +7,4 @@
 
 ## 3주차 과제
 
-<img width="" height="" src="./pic/3_main.JPG> </img>
+<img width="" height="" src="./pic/3_main.png> </img>
