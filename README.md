@@ -8,3 +8,5 @@
 ## 3주차 과제
 
 <img width="" height="" src="./pic/3_main.png> </img>
+<img width="" height="" src="./pic/3_naver.png> </img> 
+<img width="" height="" src="./pic/3_call.png> </img>
