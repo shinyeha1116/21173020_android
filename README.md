@@ -7,6 +7,6 @@
 
 ## 3주차 과제
 
-<img width="" height="" src="./pic/3주차 메인(2).jpg>/</img>
-<img width="" height="" src="./pic/3주차 네이버.jpg>/</img>
-<img width="" height="" src="./pic/3주차 전화걸기.jpg>/</img>                            
+<img width="" height="" src="./pic/3주차 메인(2).jpeg>/</img>
+<img width="" height="" src="./pic/3주차 네이버.jpeg>/</img>
+<img width="" height="" src="./pic/3주차 전화걸기.jpeg>/</img>                            
