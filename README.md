@@ -14,3 +14,6 @@
 
 ## 4주차 과제
 <img width="" height="" src="./pic/3_main.PNG"> </img>
+
+## 5주차 과제
+<img width="" height="" src="./pic/21173020_신예하_플랫폼비즈니스_ACTIVITYMAIN.JPG"> </img>
