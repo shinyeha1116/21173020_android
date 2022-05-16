@@ -25,6 +25,6 @@
 <img width="" height="" src="./pic/image01.JPG"> </img>
 <img width="" height="" src="./pic/image02.JPG"> </img>
 
-## 7주차 과제
+## 10주차 과제
 <img width="" height="" src="./pic/menu.JPG"> </img>
 <img width="" height="" src="./pic/main.JPG"> </img>
